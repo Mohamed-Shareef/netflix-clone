@@ -5,6 +5,12 @@
 -Header
 -Login form
 -Sing Up form
+-form Validation
+-useRef Hook
+-create sign Up User Account
+-Implement Signin User Account
+-created our Redux Store With UserSlice
+
 
 # Features
 
